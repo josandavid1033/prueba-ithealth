@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\proyectos\\pruebas tecnicas\\prueba tecnica ItHealth\\back\\Hospital.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46AF5FC0-762D-486A-BF6A-F63289CBFFD0}|Hospital.Api\\Hospital.Api.csproj|c:\\proyectos\\pruebas tecnicas\\prueba tecnica ithealth\\back\\hospital.api\\hospital.api\\models\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AF5FC0-762D-486A-BF6A-F63289CBFFD0}|Hospital.Api\\Hospital.Api.csproj|solutionrelative:hospital.api\\models\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AF5FC0-762D-486A-BF6A-F63289CBFFD0}|Hospital.Api\\Hospital.Api.csproj|c:\\proyectos\\pruebas tecnicas\\prueba tecnica ithealth\\back\\hospital.api\\hospital.api\\services\\patientsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AF5FC0-762D-486A-BF6A-F63289CBFFD0}|Hospital.Api\\Hospital.Api.csproj|solutionrelative:hospital.api\\services\\patientsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AF5FC0-762D-486A-BF6A-F63289CBFFD0}|Hospital.Api\\Hospital.Api.csproj|c:\\proyectos\\pruebas tecnicas\\prueba tecnica ithealth\\back\\hospital.api\\hospital.api\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AF5FC0-762D-486A-BF6A-F63289CBFFD0}|Hospital.Api\\Hospital.Api.csproj|solutionrelative:hospital.api\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AF5FC0-762D-486A-BF6A-F63289CBFFD0}|Hospital.Api\\Hospital.Api.csproj|c:\\proyectos\\pruebas tecnicas\\prueba tecnica ithealth\\back\\hospital.api\\hospital.api\\services\\interfaces\\ipatientsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AF5FC0-762D-486A-BF6A-F63289CBFFD0}|Hospital.Api\\Hospital.Api.csproj|solutionrelative:hospital.api\\services\\interfaces\\ipatientsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AF5FC0-762D-486A-BF6A-F63289CBFFD0}|Hospital.Api\\Hospital.Api.csproj|c:\\proyectos\\pruebas tecnicas\\prueba tecnica ithealth\\back\\hospital.api\\hospital.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AF5FC0-762D-486A-BF6A-F63289CBFFD0}|Hospital.Api\\Hospital.Api.csproj|solutionrelative:hospital.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AF5FC0-762D-486A-BF6A-F63289CBFFD0}|Hospital.Api\\Hospital.Api.csproj|c:\\proyectos\\pruebas tecnicas\\prueba tecnica ithealth\\back\\hospital.api\\hospital.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{46AF5FC0-762D-486A-BF6A-F63289CBFFD0}|Hospital.Api\\Hospital.Api.csproj|solutionrelative:hospital.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AF5FC0-762D-486A-BF6A-F63289CBFFD0}|Hospital.Api\\Hospital.Api.csproj|c:\\proyectos\\pruebas tecnicas\\prueba tecnica ithealth\\back\\hospital.api\\hospital.api\\models\\dtos\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AF5FC0-762D-486A-BF6A-F63289CBFFD0}|Hospital.Api\\Hospital.Api.csproj|solutionrelative:hospital.api\\models\\dtos\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AF5FC0-762D-486A-BF6A-F63289CBFFD0}|Hospital.Api\\Hospital.Api.csproj|c:\\proyectos\\pruebas tecnicas\\prueba tecnica ithealth\\back\\hospital.api\\hospital.api\\models\\data\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AF5FC0-762D-486A-BF6A-F63289CBFFD0}|Hospital.Api\\Hospital.Api.csproj|solutionrelative:hospital.api\\models\\data\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AF5FC0-762D-486A-BF6A-F63289CBFFD0}|Hospital.Api\\Hospital.Api.csproj|c:\\proyectos\\pruebas tecnicas\\prueba tecnica ithealth\\back\\hospital.api\\hospital.api\\models\\data\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AF5FC0-762D-486A-BF6A-F63289CBFFD0}|Hospital.Api\\Hospital.Api.csproj|solutionrelative:hospital.api\\models\\data\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AF5FC0-762D-486A-BF6A-F63289CBFFD0}|Hospital.Api\\Hospital.Api.csproj|c:\\proyectos\\pruebas tecnicas\\prueba tecnica ithealth\\back\\hospital.api\\hospital.api\\models\\data\\document_type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AF5FC0-762D-486A-BF6A-F63289CBFFD0}|Hospital.Api\\Hospital.Api.csproj|solutionrelative:hospital.api\\models\\data\\document_type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46AF5FC0-762D-486A-BF6A-F63289CBFFD0}|Hospital.Api\\Hospital.Api.csproj|c:\\proyectos\\pruebas tecnicas\\prueba tecnica ithealth\\back\\hospital.api\\hospital.api\\models\\data\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46AF5FC0-762D-486A-BF6A-F63289CBFFD0}|Hospital.Api\\Hospital.Api.csproj|solutionrelative:hospital.api\\models\\data\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\proyectos\\pruebas tecnicas\\prueba tecnica ItHealth\\back\\Hospital.Api\\Hospital.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Hospital.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\proyectos\\pruebas tecnicas\\prueba tecnica ItHealth\\back\\Hospital.Api\\Hospital.Api\\appsettings.Development.json",
+              "RelativeToolTip": "Hospital.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-17T21:52:35.414Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PatientDTO.cs",
+              "DocumentMoniker": "C:\\proyectos\\pruebas tecnicas\\prueba tecnica ItHealth\\back\\Hospital.Api\\Hospital.Api\\Models\\DTOs\\PatientDTO.cs",
+              "RelativeDocumentMoniker": "Hospital.Api\\Models\\DTOs\\PatientDTO.cs",
+              "ToolTip": "C:\\proyectos\\pruebas tecnicas\\prueba tecnica ItHealth\\back\\Hospital.Api\\Hospital.Api\\Models\\DTOs\\PatientDTO.cs",
+              "RelativeToolTip": "Hospital.Api\\Models\\DTOs\\PatientDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T21:51:11.575Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Document_type.cs",
+              "DocumentMoniker": "C:\\proyectos\\pruebas tecnicas\\prueba tecnica ItHealth\\back\\Hospital.Api\\Hospital.Api\\Models\\Data\\Document_type.cs",
+              "RelativeDocumentMoniker": "Hospital.Api\\Models\\Data\\Document_type.cs",
+              "ToolTip": "C:\\proyectos\\pruebas tecnicas\\prueba tecnica ItHealth\\back\\Hospital.Api\\Hospital.Api\\Models\\Data\\Document_type.cs",
+              "RelativeToolTip": "Hospital.Api\\Models\\Data\\Document_type.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T20:20:02.1Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\proyectos\\pruebas tecnicas\\prueba tecnica ItHealth\\back\\Hospital.Api\\Hospital.Api\\Models\\Data\\Gender.cs",
+              "RelativeDocumentMoniker": "Hospital.Api\\Models\\Data\\Gender.cs",
+              "ToolTip": "C:\\proyectos\\pruebas tecnicas\\prueba tecnica ItHealth\\back\\Hospital.Api\\Hospital.Api\\Models\\Data\\Gender.cs",
+              "RelativeToolTip": "Hospital.Api\\Models\\Data\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T20:19:41.205Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\proyectos\\pruebas tecnicas\\prueba tecnica ItHealth\\back\\Hospital.Api\\Hospital.Api\\Models\\Data\\Patient.cs",
+              "RelativeDocumentMoniker": "Hospital.Api\\Models\\Data\\Patient.cs",
+              "ToolTip": "C:\\proyectos\\pruebas tecnicas\\prueba tecnica ItHealth\\back\\Hospital.Api\\Hospital.Api\\Models\\Data\\Patient.cs",
+              "RelativeToolTip": "Hospital.Api\\Models\\Data\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T20:19:28.628Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientsService.cs",
+              "DocumentMoniker": "C:\\proyectos\\pruebas tecnicas\\prueba tecnica ItHealth\\back\\Hospital.Api\\Hospital.Api\\Services\\PatientsService.cs",
+              "RelativeDocumentMoniker": "Hospital.Api\\Services\\PatientsService.cs",
+              "ToolTip": "C:\\proyectos\\pruebas tecnicas\\prueba tecnica ItHealth\\back\\Hospital.Api\\Hospital.Api\\Services\\PatientsService.cs",
+              "RelativeToolTip": "Hospital.Api\\Services\\PatientsService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T20:18:31.82Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\proyectos\\pruebas tecnicas\\prueba tecnica ItHealth\\back\\Hospital.Api\\Hospital.Api\\Models\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Hospital.Api\\Models\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\proyectos\\pruebas tecnicas\\prueba tecnica ItHealth\\back\\Hospital.Api\\Hospital.Api\\Models\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Hospital.Api\\Models\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T19:53:24.143Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\proyectos\\pruebas tecnicas\\prueba tecnica ItHealth\\back\\Hospital.Api\\Hospital.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Hospital.Api\\Program.cs",
+              "ToolTip": "C:\\proyectos\\pruebas tecnicas\\prueba tecnica ItHealth\\back\\Hospital.Api\\Hospital.Api\\Program.cs",
+              "RelativeToolTip": "Hospital.Api\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T19:49:28.3Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPatientsService.cs",
+              "DocumentMoniker": "C:\\proyectos\\pruebas tecnicas\\prueba tecnica ItHealth\\back\\Hospital.Api\\Hospital.Api\\Services\\Interfaces\\IPatientsService.cs",
+              "RelativeDocumentMoniker": "Hospital.Api\\Services\\Interfaces\\IPatientsService.cs",
+              "ToolTip": "C:\\proyectos\\pruebas tecnicas\\prueba tecnica ItHealth\\back\\Hospital.Api\\Hospital.Api\\Services\\Interfaces\\IPatientsService.cs",
+              "RelativeToolTip": "Hospital.Api\\Services\\Interfaces\\IPatientsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T20:17:54.093Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\proyectos\\pruebas tecnicas\\prueba tecnica ItHealth\\back\\Hospital.Api\\Hospital.Api\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "Hospital.Api\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\proyectos\\pruebas tecnicas\\prueba tecnica ItHealth\\back\\Hospital.Api\\Hospital.Api\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "Hospital.Api\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T20:45:07.142Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Doctors.cs",
+              "DocumentMoniker": "C:\\proyectos\\pruebas tecnicas\\prueba tecnica ItHealth\\back\\Hospital.Api\\Hospital.Api\\Models\\Data\\Doctors.cs",
+              "RelativeDocumentMoniker": "Hospital.Api\\Models\\Data\\Doctors.cs",
+              "ToolTip": "C:\\proyectos\\pruebas tecnicas\\prueba tecnica ItHealth\\back\\Hospital.Api\\Hospital.Api\\Models\\Data\\Doctors.cs",
+              "RelativeToolTip": "Hospital.Api\\Models\\Data\\Doctors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T20:20:23.59Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
